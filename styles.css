@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: beige;
+}
+
+article,
+footer {
+    background-color: skyblue;
+}
+
+section {
+    display: flex;
+    gap: 8px;
+}
+
+
+a {
+    color: purple;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
